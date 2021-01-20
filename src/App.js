@@ -10,6 +10,7 @@ export default function App() {
     <div>
       <Header />
       <Cont />
+      Test commit
       <h1>Hello Ярик!</h1>
       <p>Start editing to see some magic happen :)</p>
     </div>
